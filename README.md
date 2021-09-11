@@ -6,10 +6,16 @@ Open CV is Computer vision library for real time computer vision using ML and AI
 
 <h1>Creating Virtual enviroment to avoid any error.</h1>
 <ul>
-  Installing venv in python 3
-  '''bash
-  python3 -m pip install --user virtualenv
-  '''
+ ```bash
+#Installation
+python3 -m pip install --user virtualenv
+#then create virtual env 
+python3 -m venv env
+#then activate the virtual enviroment
+source env/bin/activate
+#If wanna deactivate just type
+deactiavte
+```
   <li></li>
 </ul>
 
