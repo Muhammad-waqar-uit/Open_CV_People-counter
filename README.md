@@ -31,6 +31,7 @@ pip3 install dlib
 ```
 <h1>Create A folder with any name</h1>
 Then after downloading all the files extract them and keep all the files like that in the folder given below example
-<img src="pic1.png" alt="pic">
+<img src="pic1.png" alt="pic1">
 
 <h1>After Downloading the (people_counter.sh) file open it change the directory path after word source accordinly.</h1>
+<img src="pic2.png" alt="pic2">
