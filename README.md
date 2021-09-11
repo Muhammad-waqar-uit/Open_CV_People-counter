@@ -29,17 +29,17 @@ pip3 install opencv-python
 #4-Dlib
 pip3 install dlib
 ```
-<h1>Create A folder with any name</h1>
+<h1>Create A folder with any name.</h1>
 Then after downloading all the files extract them and keep all the files like that in the folder given below example
 <img src="pic1.png" alt="pic1">
 
 <h1>After Downloading the (people_counter.sh) file open it change the directory path after word source accordinly.</h1>
 <img src="pic2.png" alt="pic2">
 
-<h1>Create videos folder with name (videos) case sensetive and output with name output case sensetive</h1>
-<p>Then videos.txt file is given just go to it and downloads and test through the videos or you can input any video in videos folders make sure the name is with .mp4 format.
+<h1>Create videos folder with name (videos) case sensetive and output with name output case sensetive.</h1>
+<p>Then videos.txt file is given just go to it and downloads and test through the videos or you can input any video in videos folders make sure the name is with .mp4 format.</p>
  
- <h1>Activating the enviroment and running the project</h1>
+ <h1>Activating the enviroment and running the project.</h1>
  
  
 ```bash
