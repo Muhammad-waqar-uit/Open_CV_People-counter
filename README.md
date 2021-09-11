@@ -61,3 +61,5 @@ Then after downloading all the files extract them and keep all the files like th
 <h1>License : </h1>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<p>Alert! All things are tested on Ubuntu-Linux.</p>
