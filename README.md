@@ -18,3 +18,14 @@ deactiavte
 ```
 <h1>Dependencies to run this project.</h1>
 
+ ```bash
+#1-Scipy,Numpy
+pip3 install numpy
+pip3 install scipy
+#2-imutils
+pip3 install imutils
+#3-OpenCv
+pip3 install opencv-python
+#4-Dlib
+pip3 install dlib
+```
