@@ -56,4 +56,4 @@ Then after downloading all the files extract them and keep all the files like th
  deactiavte
 ```
 <h1>Some output Example : </h1>
-<img height="300" width="300" src="result.png" alt="result-pic">
+<img height="300" width="auto" src="result.png" alt="result-pic">
