@@ -36,7 +36,7 @@ Then after downloading all the files extract them and keep all the files like th
 <h1>After Downloading the (people_counter.sh) file open it change the directory path after word source accordinly.</h1>
 <img src="pic2.png" alt="pic2">
 
-<h1>Create videos folder with name (videos) case sensetive and output with name output case sensetive.</h1>
+<h1>Create videos folder with name (videos) case sensetive and output with name (output) case sensetive.</h1>
 <p>Then videos.txt file is given just go to it and downloads and test through the videos or you can input any video in videos folders make sure the name is with .mp4 format.</p>
  
  <h1>Activating the enviroment and running the project.</h1>
