@@ -57,3 +57,7 @@ Then after downloading all the files extract them and keep all the files like th
 ```
 <h1>Some output Example : </h1>
 <img height="300" width="auto" src="result.png" alt="result-pic">
+
+<h1>License : </h1>
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT
