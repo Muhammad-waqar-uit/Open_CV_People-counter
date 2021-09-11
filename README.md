@@ -29,3 +29,6 @@ pip3 install opencv-python
 #4-Dlib
 pip3 install dlib
 ```
+<h1>Create A folder with any name</h1>
+then after downloading all the files keep all the files like that in the folder
+<img src="pic1.png" alt="pic">
