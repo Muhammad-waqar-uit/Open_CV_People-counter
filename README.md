@@ -49,7 +49,7 @@ Then after downloading all the files extract them and keep all the files like th
  #then using cd command go to the folder where all your files are and then type
 python3 python-cv.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/example_01.mp4 --output output/output_01.avi
  #Method-2
- #or else using cd go to then type
+ #or else using cd go to the folder where all your files are then type
  ./people_counter.sh 
  #this will do all the things but make sure to change bash script path accordingly told previously above in the readme.
  #then after running deactivate it through
