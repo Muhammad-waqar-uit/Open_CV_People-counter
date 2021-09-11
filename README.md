@@ -55,3 +55,5 @@ Then after downloading all the files extract them and keep all the files like th
  #then after running deactivate it through
  deactiavte
 ```
+<h1>Some output Example : </h1>
+<img src="result.png" alt="result-pic">
