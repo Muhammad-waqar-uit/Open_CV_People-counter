@@ -40,7 +40,7 @@ Then after downloading all the files extract them and keep all the files like th
 <p>Then videos.txt file is given just go to it and downloads and test through the videos or you can input any video in videos folders make sure the name is with .mp4 format.
  
  <h1>Activating the enviroment and running the project</h1>
-  ```bash
+```bash
  #Method-1
  #Activate the enviroment
  source env/bin/activate
@@ -50,6 +50,6 @@ Then after downloading all the files extract them and keep all the files like th
  #or else using cd go to then type
  ./people_counter.sh 
  #this will do all the things but make sure to change bash script path accordingly told previously above in the readme.
- #then after running
+ #then after running deactivate it through
  deactiavte
- ```
+```
