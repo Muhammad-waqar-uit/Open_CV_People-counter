@@ -46,7 +46,7 @@ Then after downloading all the files extract them and keep all the files like th
  #Method-1
  #Activate the enviroment
  source env/bin/activate
- #then using cd command go to folder where all your files are type
+ #then using cd command go to the folder where all your files are and then type
 python3 python-cv.py --prototxt mobilenet_ssd/MobileNetSSD_deploy.prototxt --model mobilenet_ssd/MobileNetSSD_deploy.caffemodel --input videos/example_01.mp4 --output output/output_01.avi
  #Method-2
  #or else using cd go to then type
