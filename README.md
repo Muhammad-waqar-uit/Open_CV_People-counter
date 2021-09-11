@@ -38,3 +38,19 @@ Then after downloading all the files extract them and keep all the files like th
 
 <h1>Create videos folder with name (videos) case sensetive and output with name output case sensetive</h1>
 <p>Then videos.txt file is given just go to it and downloads and test through the videos or you can input any video in videos folders make sure the name is with .mp4 format.
+ 
+ <h1>Activating the enviroment and running the project</h1>
+  ```bash
+ 
+#Method-1
+#Activate the enviroment
+source env/bin/activate
+#then using cd command go to folder where all your files are type
+python 3 python-cv.py
+#Method-2
+#or else using cd go to then type
+./people_counter.sh 
+#this will do all the things but make sure to change bash script path accordingly told previously above in the readme.
+#then after running
+deactiavte
+```
